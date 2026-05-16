@@ -28,12 +28,29 @@ I created the CAD design on TinkerCAD which took significantly longer than I tho
 This is a screenshot of the top and inside area of my USB hub shell's base 
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 03 51 pm" src="https://github.com/user-attachments/assets/ffe3193c-1914-4125-9dfc-8ddfde8ecf42" />
 This is a screenshot of the bottom of my USB hub shell's base 
+
 As can be seen in this image the design engrained in the shell is Dio Brando from JoJo's Bizarre Adventure.
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 10 22 pm" src="https://github.com/user-attachments/assets/46735c55-6361-4737-96e1-9243da906010" />
 This is the top part with the design of my USB hub's lid
+
 As can be seen the design on the lid is based off the Youtube music artists Smørs avatar which is the current king of Norway.
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 11 04 pm" src="https://github.com/user-attachments/assets/86f503b3-b7df-4427-9cda-c11820c3f01c" />
 This is the bottom part and connecter part of my USB hub's lid.
+
 The reason why I chose to engrain the designs is not only because I like the characters designs but also to make it unique to me.
 
 # PCB
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 31 45 pm" src="https://github.com/user-attachments/assets/96f97415-00fa-40e8-9b28-44431462de61" />
+This is the Schematic for my PCB design
+
+As you can see I designed 4 USB C ports and 1 USB A port in my USB hub design
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 34 42 pm" src="https://github.com/user-attachments/assets/5871997f-0c89-4b84-b7c7-6b916d2593ef" />
+This is the 2D design of The PCB
+
+As you can see I labeled my instagram for self promotion, Donkey kong on the from of the design as he is one of my favourite characters and the Elden Ring logo on the back as it is one of my favourite games. I added these to fully personalise the design to me.
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 40 11 pm" src="https://github.com/user-attachments/assets/41f6c239-4e8b-464a-b314-06f8b2f14870" />
+This is the front of my PCB design in 3D
+
+As you can see it has the Donkey Kong and my Instagram on it.
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 42 06 pm" src="https://github.com/user-attachments/assets/70ae81e8-e637-41ba-a767-1cb2ad3ae413" />
+This is the bottom part of the 3D view of my PCB with the elden ring logo on the back.
