@@ -12,3 +12,14 @@ I began this project by thinking it will ony take 2-5 hours which I was complete
 This was also a good learning experience for me. It forced me to begin learning new different programs like pro.easyeda and GitHub. And getting more familiar and confident with programs that I've used before such as TinkerCAD.
 
 **How to use it**
+
+Before I began this project I had no idea what a USB hub was or what it is used for which made it hard for me to fully understand what all the components were or how they were used . After doing some research I now know that USB hubs are for connecting multiple externam devices such as a mouse and keyboard at the same time with one port. Now knowing this information The USB hub will make it easier and more conveniant for me to connect devices without the requirement of bluetooth. The way you connect these devices is through the USB A and USB C ports that are implemented in the design to have a solid connection.
+
+My devuice will also have a shell meaning that it will be significantly harder to damage and/or break it completely. This makes it safer and easier to use!
+
+__Why I made it__
+
+I made the USB hub to prove to myself that I was able to commit to the full 60 hours of the Fallout hackathon competition. Not only will this serve as an ego booster but also a sign that I can make things while it's not completely on my own it still shows that I am somewhat competent in this.
+
+# CAD-Design
+I created the CAD design on TinkerCAD which took significantly longer than I thought it would or should take. I believe this is mainly because I had to translate a design that I like from Jpeg to SVG on an SVG converter o have things that I'm Interested in on the shell.
