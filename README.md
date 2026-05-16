@@ -1,3 +1,4 @@
+
 # USB-hub
 USB hub created for the fallout hackathon for the 60 hours
 
@@ -23,3 +24,16 @@ I made the USB hub to prove to myself that I was able to commit to the full 60 h
 
 # CAD-Design
 I created the CAD design on TinkerCAD which took significantly longer than I thought it would or should take. I believe this is mainly because I had to translate a design that I like from Jpeg to SVG on an SVG converter o have things that I'm Interested in on the shell.
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 03 38 pm" src="https://github.com/user-attachments/assets/dcb70461-e155-40e1-a6f6-a7ab36f69a99" />
+This is a screenshot of the top and inside area of my USB hub shell's base 
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 03 51 pm" src="https://github.com/user-attachments/assets/ffe3193c-1914-4125-9dfc-8ddfde8ecf42" />
+This is a screenshot of the bottom of my USB hub shell's base 
+As can be seen in this image the design engrained in the shell is Dio Brando from JoJo's Bizarre Adventure.
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 10 22 pm" src="https://github.com/user-attachments/assets/46735c55-6361-4737-96e1-9243da906010" />
+This is the top part with the design of my USB hub's lid
+As can be seen the design on the lid is based off the Youtube music artists Smørs avatar which is the current king of Norway.
+<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 11 04 pm" src="https://github.com/user-attachments/assets/86f503b3-b7df-4427-9cda-c11820c3f01c" />
+This is the bottom part and connecter part of my USB hub's lid.
+The reason why I chose to engrain the designs is not only because I like the characters designs but also to make it unique to me.
+
+# PCB
