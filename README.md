@@ -69,3 +69,10 @@ As you can see it has the Donkey Kong and my Instagram on it.
 This is the bottom part of the 3D view of my PCB with the elden ring logo on the back.
 
 # BOM
+
+Note: All prices are in AUD
+
+| Item          | Cost          | Shipping Cost | Purpose    | Website    |
+| ------------- | ------------- | ------------- | ---------- | -----------|
+| USB hub       | $2.79         | $22.34        |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     |
+| Content Cell  | Content Cell  |               |            |            |
