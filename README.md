@@ -67,3 +67,5 @@ This is the front of my PCB design in 3D
 As you can see it has the Donkey Kong and my Instagram on it.
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 42 06 pm" src="https://github.com/user-attachments/assets/70ae81e8-e637-41ba-a767-1cb2ad3ae413" />
 This is the bottom part of the 3D view of my PCB with the elden ring logo on the back.
+
+# BOM
