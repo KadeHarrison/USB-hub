@@ -74,5 +74,6 @@ Note: All prices are in AUD
 
 | Item          | Cost          | Shipping Cost | Purpose    | Website    |
 | ------------- | ------------- | ------------- | ---------- | -----------|
-| USB hub       | $2.79         | $22.34        |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     |
-| Content Cell  | Content Cell  |               |            |            |
+| USB hub | $2.79 | $22.34  |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     |
+| PLA fillamemt  1kg | $23.90  | No shipping price shown | To be able to provide a safe place to store the PCB and transport it  | Inkstation.com.au  (Alrady have access to it at school)|
+| Pan Phillips Stainless (304) : M2 x 5mm Qty:100 Screw | $3.00 for 100 4 needed $3.00/(100/4)= $0.12| No shipping cost |To screw in the PCB to prevent keep it in place in it's shell and preventing it from getting damaged in any capacity| Classic Fasteners (Probably have acceess to it at school)|
