@@ -1,3 +1,10 @@
+https://www.tinkercad.com/things/em0O6Qrz9yb-usbhub-falloutevent-base/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard 
+
+This is a link to my USB hub CAD file for the Shell's base
+
+https://www.tinkercad.com/things/gtCdIDrxi1S/edit
+
+This is a link to my USB hub CAD file for the Shell's lid
 
 # USB-hub
 USB hub created for the fallout hackathon for the 60 hours
