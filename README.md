@@ -1,16 +1,4 @@
-# Files
 
-https://www.tinkercad.com/things/em0O6Qrz9yb-usbhub-falloutevent-base/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard 
-
-This is a link to my USB hub CAD file for the Shell's base
-
-https://www.tinkercad.com/things/gtCdIDrxi1S/edit
-
-This is a link to my USB hub CAD file for the Shell's lid
-
-https://pro.easyeda.com/editor#id=7565f8996bde4fc89537a46ddc66ea6e,tab=*11bd939f86f0460b865a8f1fc06ba77e@7565f8996bde4fc89537a46ddc66ea6e
-
-This is a link to my PCB schematic and design on the EasyEDA program
 
 # USB-hub
 USB hub created for the fallout hackathon for the 60 hours
