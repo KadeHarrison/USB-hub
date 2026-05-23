@@ -60,10 +60,11 @@ This is the bottom part of the 3D view of my PCB with the elden ring logo on the
 
 Note: All prices are in AUD
 
-| Item          | Cost          | Shipping Cost | Purpose    | Website    |
-| ------------- | ------------- | ------------- | ---------- | -----------|
-| USB hub | $2.79 | $22.34  |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     |
-| PLA filament  1kg | $23.90  | No shipping price shown | To be able to provide a safe place to store the PCB and transport it  | Inkstation.com.au  (Alrady have access to it at school)|
-| Pan Phillips Stainless (304) : M2 x 5mm Qty:100 Screw | $3.00 for 100 4 needed $3.00/(100/4)= $0.12| No shipping cost |To screw in the PCB to prevent keep it in place in it's shell and preventing it from getting damaged in any capacity| Classic Fasteners (Probably have access to it at school)|
-
+| Item          | Cost          | Shipping Cost | Purpose    | Website    |   Needed/not Needed?  |
+| ------------- | ------------- | ------------- | ---------- | -----------| ----------------------|
+| USB hub | $7.28 | $2.10 |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     | needed|
+| PLA filament  1kg | $23.90  | No shipping price shown | To be able to provide a safe place to store the PCB and transport it  | Inkstation.com.au  (Alrady have access to it at school)| Not needed |
+| 304 Stainless Steel DIN7991 Countersunk Head Hex Socket Screws Bolt Allen Thread Machine Metal Screws M2 M2.5 M3 M4 M5 M6 M8 M10 | $1.41 | free shipping |To screw in the PCB to prevent keep it in place in it's shell and preventing it from getting damaged in any capacity| AliExpress | Not needed |
+| Bambu Labs A1 mini| $319 | No shipping required | To 3D print the shell of my USB hub | OfficeWorks | Not needed (Count your blessings) |
+| Phillips head screwdriver | $8 | No shipping required | To screw the USB hub into it's  shell | Bunnings | Not needed |
 
