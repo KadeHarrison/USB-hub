@@ -62,9 +62,10 @@ Note: All prices are in AUD
 
 | Item          | Cost          | Shipping Cost | Purpose    | Website    |   Needed/not Needed?  |
 | ------------- | ------------- | ------------- | ---------- | -----------| ----------------------|
-| USB hub | $7.28 | $2.10 |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     | needed|
+| USB hub | $38.74 | $13.03 |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     | needed|
 | PLA filament  1kg | $23.90  | No shipping price shown | To be able to provide a safe place to store the PCB and transport it  | Inkstation.com.au  (Alrady have access to it at school)| Not needed |
 | 304 Stainless Steel DIN7991 Countersunk Head Hex Socket Screws Bolt Allen Thread Machine Metal Screws M2 M2.5 M3 M4 M5 M6 M8 M10 | $1.41 | free shipping |To screw in the PCB to prevent keep it in place in it's shell and preventing it from getting damaged in any capacity| AliExpress | Not needed |
 | Bambu Labs A1 mini| $319 | No shipping required | To 3D print the shell of my USB hub | OfficeWorks | Not needed (Count your blessings) |
 | Phillips head screwdriver | $8 | No shipping required | To screw the USB hub into it's  shell | Bunnings | Not needed |
+|Totals (All required totals added together| Cost total: $38.74 | Shipping total: $13.03 |
 
