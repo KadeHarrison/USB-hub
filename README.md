@@ -1,5 +1,16 @@
 <img width="413" height="593" alt="Screenshot 2026-05-24 at 4 58 12 pm" src="https://github.com/user-attachments/assets/4ccdf89e-1f60-4b81-b9c8-0d95ccae387c" />
 
+https://www.tinkercad.com/things/em0O6Qrz9yb-usbhub-falloutevent-base/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=uleH3q0p1ocs2WrJEvuXWojCogdqtPxlt5zXWwmlYJ4 
+
+This is a link to the base of my USB hub
+
+https://www.tinkercad.com/things/gtCdIDrxi1S-hub-falloutevent-lidonly/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=mA7J492QSQ8GzkwQ9m4KtmCBf85i-_HMRcQQsB8qvwA
+
+This is a link to the lid of the shell of my USB hub
+
+(https://www.tinkercad.com/things/jaAJJgDHveo-usbhub-zine/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=161K71KBjl16iuuIkcuMbJTAnT-vyLehkgMTltzUhlE)
+
+This is a link to the completed project with the USB hub inside.
 
 # USB-hub
 USB hub created for the fallout hackathon for the 60 hours
