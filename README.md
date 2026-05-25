@@ -12,6 +12,10 @@ This is a link to the lid of the shell of my USB hub
 
 This is a link to the completed project with the USB hub inside.
 
+https://u.easyeda.com/join?type=project&key=07b98292fe94e123c3be364bfc1b4d3a&inviter=322110f3a1b842929a98b45e50ad3782
+
+This is a link to my EasyEDA project
+
 # USB-hub
 USB hub created for the fallout hackathon for the 60 hours
 
