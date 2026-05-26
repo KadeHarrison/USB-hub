@@ -78,6 +78,17 @@ As you can see it has Donkey Kong and my Instagram on it.
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 42 06 pm" src="https://github.com/user-attachments/assets/70ae81e8-e637-41ba-a767-1cb2ad3ae413" />
 This is the bottom part of the 3D view of my PCB with the elden ring logo on the back.
 
+# Specs
+4 inputs:
+
+3x USB C 
+
+1x USB A
+
+1 Output:
+
+1 x USB C
+
 # BOM
 
 Note: All prices are in AUD
@@ -91,3 +102,10 @@ Note: All prices are in AUD
 | Phillips head screwdriver | $8 | No shipping required | To screw the USB hub into it's  shell | Bunnings | Not needed | https://www.bunnings.com.au/stanley-2-x-150mm-essentials-phillips-head-screwdriver_p0336690 |
 |Totals (All required totals added together| Cost total: $38.74 | Shipping total: $13.03 |
 
+# Other Information
+
+inspired by the tutoriel provided which is the main reason I cose it cause of ease to do.
+
+Github inspiration:https://github.com/geg-tech/biblicallyaccuratekeyboard/blob/main/extras/highway%20magazine.png and https://github.com/Ayush09S/USB-C-HUB (thank you) 
+
+Sanity checked by Ayush Singh thanks for checking this as much as you did even though I did get a bit annoyed at you cause of the way you told me things.
