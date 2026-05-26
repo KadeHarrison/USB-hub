@@ -54,6 +54,12 @@ As can be seen the design on the lid is based on the Youtube music artist Smørs
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 11 04 pm" src="https://github.com/user-attachments/assets/86f503b3-b7df-4427-9cda-c11820c3f01c" />
 This is the bottom part and connector part of my USB hub's lid.
 
+<img width="1470" height="956" alt="Screenshot 2026-05-26 at 5 17 20 pm" src="https://github.com/user-attachments/assets/39725765-2a02-4b15-a4c3-fabc3a827456" />
+This is what the USB hu shell looks like put together
+
+<img width="1470" height="956" alt="Screenshot 2026-05-26 at 5 19 41 pm" src="https://github.com/user-attachments/assets/38fb0170-157a-419b-901a-4711e73f14a1" />
+This is what the full USB hub shell looks like while transparent so you can see the USB hub inside the shell
+
 The reason why I chose to engrain the designs is not only because I like the characters designs but also to make it unique to me.
 
 # PCB
