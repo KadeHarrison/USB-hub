@@ -8,8 +8,6 @@
 
 [Complete USB hub shell with USB hub inside here](https://www.tinkercad.com/things/jaAJJgDHveo-usbhub-zine/edit?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2F3d&sharecode=161K71KBjl16iuuIkcuMbJTAnT-vyLehkgMTltzUhlE)
 
-[EasyEDA project here](https://u.easyeda.com/join?type=project&key=07b98292fe94e123c3be364bfc1b4d3a&inviter=322110f3a1b842929a98b45e50ad3782)
-
 # USB-hub
 USB hub created for the fallout hackathon for the 60 hours
 
