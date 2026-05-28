@@ -96,7 +96,7 @@ Note: All prices are in AUD
 
 # Other Information
 
-inspired by the tutoriel provided which is the main reason I cose it cause of ease to do.
+inspired by the tutorial provided which is the main reason I cose it cause of ease to do.
 
 Github inspiration:https://github.com/geg-tech/biblicallyaccuratekeyboard/blob/main/extras/highway%20magazine.png and https://github.com/Ayush09S/USB-C-HUB (thank you) 
 
