@@ -85,7 +85,7 @@ This is the bottom part of the 3D view of my PCB with the elden ring logo on the
 
 Note: All prices are in AUD
 
-| Item          | Cost          | Shipping Cost | Purpose    | Website    |   Needed/not Needed?  | Link |
+| Item          | Cost          | Shipping Cost | Purpose    | Website    |   Needed/not Needed for funding for the fallout event?  | Link |
 | ------------- | ------------- | ------------- | ---------- | -----------| ----------------------| ---- |
 | USB hub | $38.74 | $13.03 |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     | needed| https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026052614541382&spm=Jlcpcb.Confirmorder.1001 |
 | PLA filament  1kg | $23.90  | No shipping price shown | To be able to provide a safe place to store the PCB and transport it  | Inkstation| Not needed | https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-black-1kg-p-30779.html |
