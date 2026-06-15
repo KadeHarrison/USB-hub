@@ -1,6 +1,7 @@
 [Fallout-USB_hub.pdf](https://github.com/user-attachments/files/28433949/Fallout-USB_hub.pdf)
 
-<img width="365" height="526" alt="Screenshot 2026-05-31 at 5 49 21 pm" src="https://github.com/user-attachments/assets/21ed34d8-5efa-4025-bb5a-72cb343ede2b" />
+<img width="310" height="442" alt="Screenshot 2026-06-15 at 11 46 45 pm" src="https://github.com/user-attachments/assets/ff477a2b-7132-469e-a284-ed8b19e505bb" />
+
 
 # Links
 
