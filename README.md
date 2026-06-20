@@ -58,15 +58,18 @@ This is what the full USB hub shell looks like while transparent so you can see 
 The reason why I chose to engrain the designs is not only because I like the characters designs but also to make it unique to me.
 
 # PCB
-<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 31 45 pm" src="https://github.com/user-attachments/assets/96f97415-00fa-40e8-9b28-44431462de61" />
+<img width="1470" height="956" alt="Screenshot 2026-06-20 at 9 23 54 pm" src="https://github.com/user-attachments/assets/3984cb92-80d1-4c6d-acb3-bc7816a8af12" />
+
 This is the Schematic for my PCB design
 
 As you can see I designed 4 USB C ports and 1 USB A port in my USB hub design
-<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 34 42 pm" src="https://github.com/user-attachments/assets/5871997f-0c89-4b84-b7c7-6b916d2593ef" />
+<img width="1470" height="956" alt="Screenshot 2026-06-20 at 9 24 16 pm" src="https://github.com/user-attachments/assets/2b17d668-3c1e-4963-90da-c09f6246531f" />
+
 This is the 2D design of The PCB
 
 As you can see I labeled my instagram for self promotion, Donkey kong on the from of the design as he is one of my favourite characters and the Elden Ring logo on the back as it is one of my favourite games. I added these to fully personalise the design to me.
-<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 40 11 pm" src="https://github.com/user-attachments/assets/41f6c239-4e8b-464a-b314-06f8b2f14870" />
+<img width="1470" height="956" alt="Screenshot 2026-06-20 at 9 25 50 pm" src="https://github.com/user-attachments/assets/af581d22-1763-472d-9b8a-928f7816033a" />
+
 This is the front of my PCB design in 3D
 
 As you can see it has Donkey Kong and my Instagram on it.
