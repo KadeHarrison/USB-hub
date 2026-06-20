@@ -116,4 +116,6 @@ inspired by the tutorial provided which is the main reason I cose it cause of ea
 
 Github inspiration:https://github.com/geg-tech/biblicallyaccuratekeyboard/blob/main/extras/highway%20magazine.png and https://github.com/Ayush09S/USB-C-HUB (thank you) 
 
+There isn't an "unsimplified whole" step file as it was too large of a file to imoport (even through the app sorry I could'nt get it in) 
+
 Sanity checked by Ayush Singh thanks for checking this as much as you did even though I did get a bit annoyed at you cause of the way you told me things.
