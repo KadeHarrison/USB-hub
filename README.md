@@ -73,6 +73,16 @@ As you can see it has Donkey Kong and my Instagram on it.
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 42 06 pm" src="https://github.com/user-attachments/assets/70ae81e8-e637-41ba-a767-1cb2ad3ae413" />
 This is the bottom part of the 3D view of my PCB with the elden ring logo on the back.
 
+# How to make it!
+
+1. Order the PCB from a website such as JLCPCB or another webiste you trust. ALternatively if you have access to a CNC machine you could cut it on that
+
+2. 3D print The unsimplified base and The lid step files that are provided
+
+3. Make sure that you have all the right things to secure the USB hub to its case such as a screwdriver and right screw sizes
+
+4. Put it all together.
+
 # Specs
 4 inputs:
 
