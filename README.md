@@ -1,6 +1,7 @@
 [Fallout-USB_hub.pdf](https://github.com/user-attachments/files/28433949/Fallout-USB_hub.pdf)
 
-<img width="365" height="526" alt="Screenshot 2026-05-31 at 5 49 21 pm" src="https://github.com/user-attachments/assets/21ed34d8-5efa-4025-bb5a-72cb343ede2b" />
+<img width="304" height="437" alt="Screenshot 2026-06-15 at 11 54 48 pm" src="https://github.com/user-attachments/assets/0c2a61a2-79f0-4948-82ce-716e0da3c9ba" />
+
 
 # Links
 
@@ -57,20 +58,33 @@ This is what the full USB hub shell looks like while transparent so you can see 
 The reason why I chose to engrain the designs is not only because I like the characters designs but also to make it unique to me.
 
 # PCB
-<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 31 45 pm" src="https://github.com/user-attachments/assets/96f97415-00fa-40e8-9b28-44431462de61" />
+<img width="1470" height="956" alt="Screenshot 2026-06-20 at 9 23 54 pm" src="https://github.com/user-attachments/assets/3984cb92-80d1-4c6d-acb3-bc7816a8af12" />
+
 This is the Schematic for my PCB design
 
 As you can see I designed 4 USB C ports and 1 USB A port in my USB hub design
-<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 34 42 pm" src="https://github.com/user-attachments/assets/5871997f-0c89-4b84-b7c7-6b916d2593ef" />
+<img width="1470" height="956" alt="Screenshot 2026-06-20 at 9 24 16 pm" src="https://github.com/user-attachments/assets/2b17d668-3c1e-4963-90da-c09f6246531f" />
+
 This is the 2D design of The PCB
 
 As you can see I labeled my instagram for self promotion, Donkey kong on the from of the design as he is one of my favourite characters and the Elden Ring logo on the back as it is one of my favourite games. I added these to fully personalise the design to me.
-<img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 40 11 pm" src="https://github.com/user-attachments/assets/41f6c239-4e8b-464a-b314-06f8b2f14870" />
+<img width="1470" height="956" alt="Screenshot 2026-06-20 at 9 25 50 pm" src="https://github.com/user-attachments/assets/af581d22-1763-472d-9b8a-928f7816033a" />
+
 This is the front of my PCB design in 3D
 
 As you can see it has Donkey Kong and my Instagram on it.
 <img width="1470" height="956" alt="Screenshot 2026-05-16 at 2 42 06 pm" src="https://github.com/user-attachments/assets/70ae81e8-e637-41ba-a767-1cb2ad3ae413" />
 This is the bottom part of the 3D view of my PCB with the elden ring logo on the back.
+
+# How to make it!
+
+1. Order the PCB from a website such as JLCPCB or another webiste you trust. ALternatively if you have access to a CNC machine you could cut it on that
+
+2. 3D print The unsimplified base and The lid step files that are provided
+
+3. Make sure that you have all the right things to secure the USB hub to its case such as a screwdriver and right screw sizes
+
+4. Put it all together.
 
 # Specs
 4 inputs:
@@ -89,17 +103,19 @@ Note: All prices are in AUD
 
 | Item          | Cost          | Shipping Cost | Purpose    | Website    |   Needed/not Needed for funding for the fallout event?  | Link |
 | ------------- | ------------- | ------------- | ---------- | -----------| ----------------------| ---- |
-| USB hub | $38.74 | $13.03 |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     | needed| https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026052614541382&spm=Jlcpcb.Confirmorder.1001 |
+| USB hub | $57.15 | $13.03 |  The main part of the entire project containing the USB connectors and other stuff          | JLCPCB     | needed| https://trade.jlcpcb.com/checkout/payMethod?systemType=order_pcb&calType=PAY&batchNum=W2026052614541382&spm=Jlcpcb.Confirmorder.1001 |
 | PLA filament  1kg | $23.90  | No shipping price shown | To be able to provide a safe place to store the PCB and transport it  | Inkstation| Not needed | https://www.inkstation.com.au/2102/1-pla-3d-filament-175mm-black-1kg-p-30779.html |
 | 304 Stainless Steel DIN7991 Countersunk Head Hex Socket Screws Bolt Allen Thread Machine Metal Screws M2 M2.5 M3 M4 M5 M6 M8 M10 | $1.41 | free shipping |To screw in the PCB to prevent keep it in place in it's shell and preventing it from getting damaged in any capacity| AliExpress | Not needed | https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.productlist.main.1.10de53c81YbXPj&algo_pvid=c89821b3-b3d5-40a3-905b-d288e0e315e1&algo_exp_id=c89821b3-b3d5-40a3-905b-d288e0e315e1-0&pdp_ext_f=%7B%22order%22%3A%2247525%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21AUD%213.71%211.40%21%21%212.62%210.99%21%4021030a4b17797787965322088e2ec8%2112000031519353295%21sea%21AU%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aa2c013d2%3Bm03_new_user%3A-29895%3BpisId%3A5000000204867275&curPageLogUid=VJWesrs7mWiy&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005070119421%7C_p_origin_prod%3A |
 | Bambu Labs A1 mini| $319 | No shipping required | To 3D print the shell of my USB hub | OfficeWorks | Not needed (Count your blessings) | https://www.officeworks.com.au/shop/officeworks/p/bambu-lab-a1-mini-3d-printer-bama1m |
 | Phillips head screwdriver | $8 | No shipping required | To screw the USB hub into it's  shell | Bunnings | Not needed | https://www.bunnings.com.au/stanley-2-x-150mm-essentials-phillips-head-screwdriver_p0336690 |
-|Totals (All required totals added together) | Cost total (needed): $38.74 | Shipping total (Total and needed cause they are the same) : $13.03 | Full cost total: 38.74 + 23.90 + 1.41 + 319 + 8 = $391.05 |
+|Totals (All required totals added together) | Cost total (needed): $57.15 | Shipping total (Total and needed cause they are the same) : $13.03 | Full cost total: 57.15 + 23.90 + 1.41 + 319 + 8 = $409.46 |
 
 # Other Information
 
 inspired by the tutorial provided which is the main reason I cose it cause of ease to do.
 
 Github inspiration:https://github.com/geg-tech/biblicallyaccuratekeyboard/blob/main/extras/highway%20magazine.png and https://github.com/Ayush09S/USB-C-HUB (thank you) 
+
+There isn't an "unsimplified whole" step file as it was too large of a file to imoport (even through the app sorry I could'nt get it in), hence the existance for the simplified files
 
 Sanity checked by Ayush Singh thanks for checking this as much as you did even though I did get a bit annoyed at you cause of the way you told me things.
